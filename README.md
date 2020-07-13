@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **sebastiandg7/sebastiandg7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sebastiandg7.sebastiandg7)  
+[![Sebastiandg7's github stats](https://github-readme-stats.vercel.app/api?username=sebastiandg7)](https://github.com/anuraghazra/github-readme-stats)
