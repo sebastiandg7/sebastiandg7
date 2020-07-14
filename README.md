@@ -4,5 +4,3 @@
 ![GitHub followers](https://img.shields.io/github/followers/sebastiandg7?label=Follow&style=social)
 
 [![Sebastiandg7's github stats](https://github-readme-stats.vercel.app/api?username=sebastiandg7)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
