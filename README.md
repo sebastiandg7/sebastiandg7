@@ -12,4 +12,6 @@
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Could you review my first react app since 3 years ago?](https://dev.to/sebastiandg7/could-you-review-my-first-react-app-since-3-years-ago-3nbh)
+- [How do you handle role/permissions updates with JWT?](https://dev.to/sebastiandg7/how-do-you-handle-role-permissions-updates-with-jwt-3778)
 <!-- BLOG-POST-LIST:END -->
