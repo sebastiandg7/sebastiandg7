@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/sebastiandg7?style=social&label=Follow)](https://twitter.com/sebastiandg7)
 ![GitHub followers](https://img.shields.io/github/followers/sebastiandg7?label=Follow&style=social)
 
-[![Sebastiandg7's github stats](https://github-readme-stats.vercel.app/api?username=sebastiandg7)](https://github.com/anuraghazra/github-readme-stats)
+[![Sebastiandg7's github stats](https://github-readme-stats.vercel.app/api?username=sebastiandg7)](https://sebastiandg7.github.io)
 
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
