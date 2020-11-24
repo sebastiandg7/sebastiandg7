@@ -6,16 +6,6 @@
 
 [![Sebastiandg7's github stats](https://github-readme-stats.vercel.app/api?username=sebastiandg7)](https://github.com/anuraghazra/github-readme-stats)
 
-📊 **This week I spent my time on**
-<!--START_SECTION:waka-->
-```text
-SCSS         47 mins         ██████████▓░░░░░░░░░░░░░░   42.88 % 
-JavaScript   38 mins         ████████▓░░░░░░░░░░░░░░░░   34.24 % 
-Liquid       19 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.14 % 
-YAML         6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-```
-<!--END_SECTION:waka-->
-
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [Could you review my first react app since 3 years ago?](https://dev.to/sebastiandg7/could-you-review-my-first-react-app-since-3-years-ago-3nbh)
