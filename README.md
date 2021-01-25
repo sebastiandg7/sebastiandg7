@@ -1,13 +1,80 @@
-<!--
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=sebastiandg7.sebastiandg7)](https://github.com/sebastiandg7)
--->
-[![Twitter Follow](https://img.shields.io/twitter/follow/sebastiandg7?style=social&label=Follow)](https://twitter.com/sebastiandg7)
+# 👋 Hi there!
+
+I'm Sebastian,
+
+[![Years Badge](https://badges.pufler.dev/years/sebastiandg7)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/sebastiandg7/sebastiandg7)](https:braydoncoyer.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/sebastiandg7)](https://badges.pufler.dev)
+[![Gists Badge](https://badges.pufler.dev/gists/sebastiandg7)](https://badges.pufler.dev)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/sebastiandg7)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sebastianduqueg/)
+[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/sebastiandg7)
 ![GitHub followers](https://img.shields.io/github/followers/sebastiandg7?label=Follow&style=social)
 
-[![Sebastiandg7's github stats](https://github-readme-stats.vercel.app/api?username=sebastiandg7)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
-📕 **Latest Blog Posts**
+## 📈 My stats
+
+<br>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sebastiandg7&count_private=true&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastiandg7&layout=compact&langs_count=8&theme=dark" />
+</a>
+
+<br>
+<br>
+
+## 🧰 Stuff I use
+
+<br>
+
+<p>
+    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+    <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+    <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+    <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+    <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+    <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+    <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
+    <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+    <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+    <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
+    <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+    <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+    <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+    <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
+    <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
+
+<br>
+
+## 📌 Pinned Repositories
+
+<br>
+
+<a href="https://github.com/trafilea/nx-shopify">
+    <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=trafilea&repo=nx-shopify&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+<br>
+
+## 📝 Latest Blog Posts
+
+<br>
+
 <!-- BLOG-POST-LIST:START -->
+
 - [Could you review my first react app since 3 years ago?](https://dev.to/sebastiandg7/could-you-review-my-first-react-app-since-3-years-ago-3nbh)
 - [How do you handle role/permissions updates with JWT?](https://dev.to/sebastiandg7/how-do-you-handle-role-permissions-updates-with-jwt-3778)
 <!-- BLOG-POST-LIST:END -->
+
+<br>
