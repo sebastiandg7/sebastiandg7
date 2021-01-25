@@ -1,15 +1,20 @@
 # 👋 Hi there!
 
-I'm Sebastian,
+Welcome to my profile :)
+
+I'm Sebastian. A guy who enjoys challenges, desiging solutions, writing code and diving 🤿
+
+<br>
 
 [![Years Badge](https://badges.pufler.dev/years/sebastiandg7)](https://badges.pufler.dev)
 [![Visits Badge](https://badges.pufler.dev/visits/sebastiandg7/sebastiandg7)](https:braydoncoyer.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/sebastiandg7)](https://badges.pufler.dev)
 [![Gists Badge](https://badges.pufler.dev/gists/sebastiandg7)](https://badges.pufler.dev)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/sebastiandg7)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sebastianduqueg/)
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/sebastiandg7)
-![GitHub followers](https://img.shields.io/github/followers/sebastiandg7?label=Follow&style=social)
+
+[![Github Badge](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/sebastiandg7)
+[![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sebastiandg7)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastianduqueg/)
+[![Dev.to Badge](https://img.shields.io/badge/DEV.TO-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/sebastiandg7)
 
 <br>
 
@@ -18,10 +23,10 @@ I'm Sebastian,
 <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sebastiandg7&count_private=true&show_icons=true&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sebastiandg7&count_private=true&show_icons=true&&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastiandg7&layout=compact&langs_count=8&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastiandg7&layout=compact&langs_count=8&&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
