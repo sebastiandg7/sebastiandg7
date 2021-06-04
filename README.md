@@ -15,6 +15,7 @@ I'm Sebastian. A guy who enjoys challenges, desiging solutions, writing code and
 [![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sebastiandg7)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastianduqueg/)
 [![Dev.to Badge](https://img.shields.io/badge/DEV.TO-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/sebastiandg7)
+[![Stackoverflow Badge](https://img.shields.io/badge/Stackoverflow-%23F58025.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/5994580/sebastiandg7)
 
 <br>
 
