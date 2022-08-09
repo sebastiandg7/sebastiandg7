@@ -6,10 +6,12 @@ I'm Sebastian. A guy who enjoys challenges, desiging solutions, writing code and
 
 <br>
 
-[![Years Badge](https://badges.pufler.dev/years/sebastiandg7)](https://badges.pufler.dev)
+<!-- [![Years Badge](https://badges.pufler.dev/years/sebastiandg7)](https://badges.pufler.dev)
 [![Visits Badge](https://badges.pufler.dev/visits/sebastiandg7/sebastiandg7)](https://github.com/sebastiandg7)
 [![Repos Badge](https://badges.pufler.dev/repos/sebastiandg7)](https://github.com/sebastiandg7?tab=repositories)
 [![Gists Badge](https://badges.pufler.dev/gists/sebastiandg7)](https://gist.github.com/sebastiandg7)
+
+-->
 
 [![Github Badge](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/sebastiandg7)
 [![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sebastiandg7)
