@@ -1,7 +1,5 @@
 # 👋 Hi there!
 
-Welcome to my profile :)
-
 I'm Sebastian. A guy who enjoys challenges, desiging solutions, writing code and diving 🤿
 
 <br>
